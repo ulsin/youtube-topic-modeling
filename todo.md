@@ -1,0 +1,1 @@
+- [ ] Put getting embeddings into function to avoid things going slow when using model several times

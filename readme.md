@@ -10,4 +10,4 @@ More documentation and code coming soon!
 
 **PS:**
 
-Plotly figures aren't displaying properly on github so if you want to see the plots, check the `plots` directory
+Plotly figures aren't displaying properly on github so if you want to see the plots, check the `figures` directory
