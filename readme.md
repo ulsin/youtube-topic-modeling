@@ -1,4 +1,4 @@
-# Topic Modeling for YouTube Trending videos
+# Topic Modelling for YouTube Trending videos
 
 Wanted a project to replicate some of the things I learned during my internship at Schibsted, but felt like I had to make a new project as not to rely on Schibsted's data.
 
