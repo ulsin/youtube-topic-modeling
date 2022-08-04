@@ -1,1 +1,3 @@
 - [ ] Put getting embeddings into function to avoid things going slow when using model several times
+- [ ] put model pickles into own folder
+- [x] set documentation on functions
