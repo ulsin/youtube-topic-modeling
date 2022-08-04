@@ -7,3 +7,7 @@ This project aims to find clusters of topics based on titles from YouTube's tren
 The project uses SBERT for getting sentence embeddings, UMAP for dimensionality reduction, HDBSCAN for clustering and TF-IDF for finding topics within clusters.
 
 More documentation and code coming soon!
+
+**PS:**
+
+Plotly figures aren't displaying properly on github so if you want to see the plots, check the `plots` directory
